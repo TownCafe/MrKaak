@@ -109,7 +109,7 @@ function App() {
           {/* Hero Section */}
           <div className="text-center mb-16">
             <div className="mb-4 flex flex-col items-center">
-              <h2 className="text-3xl font-extrabold mb-2 text-[#231E21] drop-shadow-lg flex items-center">
+              <h2 className="text-3xl font-extrabold mb-2 text-[#523E20] drop-shadow-lg flex items-center">
                 {language === 'ar' ? 'مرحباً بكم في مستر كعك' : 'Welcome to Mr. Kaak'}
               </h2>
               <img src="/moustache.png" alt="Moustache" className="my-2 animate-float w-16 h-auto" />

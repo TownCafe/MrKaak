@@ -26,9 +26,9 @@ const Header: React.FC<HeaderProps> = ({
             </div>
             <div>
               <h1 className="text-2xl font-bold text-[#523E20]">Mr. Kaak</h1>
-              <p className="text-xs text-[#272428]">
+              {/* <p className="text-xs text-[#272428]">
                 {language === 'ar' ? 'نكهات لبنانية أصيلة' : 'Authentic Lebanese Flavors'}
-              </p>
+              </p> */}
             </div>
           </div>
 
